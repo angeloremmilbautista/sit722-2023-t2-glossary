@@ -14,7 +14,7 @@ const nameList = [
 {'id':10, 'term': 'Shift Left','description':'The Shift Left principle shifts the processes from a sequential/linear to an overlay. This means, the system runs the process in parallel in order to start and finish it earlier. This method enhances efficiency and lessens set backs in software development.','references':'Kawaguchi (2022, February 12). The Wall of Confusion. Medium.https://levelup.gitconnected.com/the-wall-of-confusion-623057a4dd26' },
 
 /* Template sample for future use
-{'id':10, 'term': 'Shift Left','description':'email2','references':'Kawaguchi (2022, February 12). The Wall of Confusion. Medium.https://levelup.gitconnected.com/the-wall-of-confusion-623057a4dd26' },
+{'id':10, 'term': 'TERMX','description':'DESCX','references':'Kawaguchi (2022, February 12). The Wall of Confusion. Medium.https://levelup.gitconnected.com/the-wall-of-confusion-623057a4dd26' },
 */
 
 ];
